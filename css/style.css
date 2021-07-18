@@ -152,7 +152,7 @@ header .container .linkes li a:hover {
 }
 @media (max-width: 767px) {
   .intro .container .image {
-    width: 340px;
+    width: 330px;
     margin: 0 auto;
   }
 }
@@ -225,7 +225,7 @@ header .container .linkes li a:hover {
 }
 @media (max-width: 767px) {
   .main .container {
-    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
   }
 }
 .main .container .box {
@@ -266,7 +266,7 @@ header .container .linkes li a:hover {
 }
 @media (max-width: 767px) {
   .productive .container .image {
-    width: 350px;
+    width: 330px;
   }
 }
 .productive .container .image img {
@@ -344,7 +344,7 @@ header .container .linkes li a:hover {
 }
 .all-card .container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(252px, 1fr));
   gap: 45px;
 }
 .all-card .container .card {
